@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurveyNet.Documentation.WebApi", "SurveyNet.Documentation.WebApi\SurveyNet.Documentation.WebApi.csproj", "{945983AF-1DEE-4717-81D9-B0ED3E4B4A38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurveyNet.Documentation.DataLayer", "SurveyNet.Documentation.DataLayer\SurveyNet.Documentation.DataLayer.csproj", "{DAF902A6-6A3F-4220-A9A0-F0B5E77534D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{945983AF-1DEE-4717-81D9-B0ED3E4B4A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945983AF-1DEE-4717-81D9-B0ED3E4B4A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945983AF-1DEE-4717-81D9-B0ED3E4B4A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945983AF-1DEE-4717-81D9-B0ED3E4B4A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF902A6-6A3F-4220-A9A0-F0B5E77534D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF902A6-6A3F-4220-A9A0-F0B5E77534D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF902A6-6A3F-4220-A9A0-F0B5E77534D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF902A6-6A3F-4220-A9A0-F0B5E77534D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
